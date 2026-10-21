@@ -1,0 +1,6 @@
+{
+  "name": "ProfitPulse AI",
+  "description": "Find the profit you're losing. Understand why. Fix it before it happens again.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
